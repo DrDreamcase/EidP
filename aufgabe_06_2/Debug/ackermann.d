@@ -1,0 +1,1 @@
+ackermann.o: ../ackermann.cpp
