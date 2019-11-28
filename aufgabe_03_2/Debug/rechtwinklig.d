@@ -1,0 +1,1 @@
+rechtwinklig.o: ../rechtwinklig.cpp

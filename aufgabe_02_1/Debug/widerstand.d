@@ -1,0 +1,1 @@
+widerstand.o: ../widerstand.cpp

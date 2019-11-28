@@ -1,0 +1,1 @@
+zeiger.o: ../zeiger.cpp

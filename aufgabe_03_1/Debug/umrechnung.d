@@ -1,0 +1,1 @@
+umrechnung.o: ../umrechnung.cpp

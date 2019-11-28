@@ -1,0 +1,1 @@
+gerade.o: ../gerade.cpp

@@ -1,0 +1,1 @@
+prim.o: ../prim.cpp
